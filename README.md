@@ -1,4 +1,4 @@
-# You need to use Github to turn in your assignment #
+# You need to use Github to turn in your exercises#
 
 ## Prerequisites ##
 
